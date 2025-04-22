@@ -1,0 +1,14 @@
+main {
+  /* background-color: red; */
+  width: 90vw;
+  height: 80vh;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 1rem;
+  .card {
+    border: 1px solid blue;
+    width: 50%;
+    height: 50%;
+  }
+}

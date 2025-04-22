@@ -1,0 +1,19 @@
+nav {
+  img {
+    border-radius: 50%;
+    width: 10%;
+    height: 30%;
+  }
+
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  color: blue;
+  ul {
+    display: flex;
+    gap: 2rem;
+    list-style: none;
+    font-size: large;
+    text-transform: capitalize;
+  }
+}

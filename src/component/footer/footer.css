@@ -1,0 +1,12 @@
+footer {
+  background-color: rgb(171, 171, 235);
+  display: flex;
+  justify-content: space-between;
+  gap: 5rem;
+  h1 {
+    color: blue;
+  }
+  ul {
+    list-style: circle;
+  }
+}
